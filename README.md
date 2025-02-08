@@ -77,10 +77,16 @@ The **PIG Game** is an interactive, two-player dice game where players compete t
 - 🔊 **Sound Effects**: Add audio feedback for rolls, holds, and win announcements.
 - 🎭 **Enhanced Visuals**: Introduce animations for dice rolls and winner celebration.
 
+## 🎭 Screenshots  
+
+| Pig Game |  
+|--------------|  
+| ![Pig Game](imgs/github/pig-game.png) |  
+
 ## 📜 License
 
 This project was developed for educational purposes as part of a **college assignment**.
 
 ---
 
-💼 **Author:** Juan Jacobo Florez Monroy | 🚀 Portfolio: [Portfolio Website or GitHub]
+💼 **Author:** Juan Jacobo Florez Monroy | 🚀 **GitHub**: [GitHub](https://github.com/jjacoboflorez95)
